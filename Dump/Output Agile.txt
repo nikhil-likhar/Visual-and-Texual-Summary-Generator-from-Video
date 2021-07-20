@@ -1,0 +1,912 @@
+Capture82 : Similarity = 0.3840024173259735
+______ Creating... frame24 ______
+
+
+Capture83 : Similarity = 0.7486864328384399
+______ Creating... frame25 ______
+
+
+Capture84 : Similarity = 0.9998417496681213
+
+
+Capture85 : Similarity = 0.9998183846473694
+
+
+Capture86 : Similarity = 0.9998227953910828
+
+
+Capture87 : Similarity = 0.9998422861099243
+
+
+Capture88 : Similarity = 0.9476656317710876
+
+
+Capture89 : Similarity = 0.9469837546348572
+
+
+Capture90 : Similarity = 0.9471114873886108
+
+
+Capture91 : Similarity = 0.9469469785690308
+
+
+Capture92 : Similarity = 0.9305173754692078
+
+
+Capture93 : Similarity = 0.9305482506752014
+
+
+Capture94 : Similarity = 0.9299065470695496
+
+
+Capture95 : Similarity = 0.9294437766075134
+
+
+Capture96 : Similarity = 0.9288069605827332
+
+
+Capture97 : Similarity = 0.8910558223724365
+______ Creating... frame26 ______
+
+
+Capture98 : Similarity = 0.9998985528945923
+
+
+Capture99 : Similarity = 0.9999072551727295
+
+
+Capture100 : Similarity = 0.999914288520813
+
+
+Capture101 : Similarity = 0.9998719692230225
+
+
+Capture102 : Similarity = 0.3459130525588989
+______ Creating... frame27 ______
+
+
+Capture103 : Similarity = 0.4374710023403168
+______ Creating... frame28 ______
+
+
+Capture104 : Similarity = 0.9995155930519104
+
+
+Capture105 : Similarity = 0.9996629953384399
+
+
+Capture106 : Similarity = 0.5201357007026672
+______ Creating... frame29 ______
+
+
+Capture107 : Similarity = 0.8140364289283752
+______ Creating... frame30 ______
+
+
+Capture108 : Similarity = 0.35125815868377686
+______ Creating... frame31 ______
+
+
+Capture109 : Similarity = 0.3298581838607788
+______ Creating... frame32 ______
+
+
+Capture110 : Similarity = 0.4951684772968292
+______ Creating... frame33 ______
+
+
+Capture111 : Similarity = 0.7531076073646545
+______ Creating... frame34 ______
+______ Creating... frame35______ 
+
+
+
+_______ Elapsed Time:    2 min : 10 sec _______
+
+
+Images Generated:  113
+Images Selected:  36
+
+
+Markers for Segmentation  :  [0, 5, 10, 20, 45, 55, 65, 75, 90, 95, 120, 125, 135, 150, 165, 190, 195, 200, 280, 295, 335, 350, 370, 400, 410, 415, 485, 510, 515, 530, 535, 540, 545, 550, 555, 565]
+
+
+
+
+<<<<<<<<< Video to Audio-Segmentation based on Markers >>>>>>>>>>
+
+
+MoviePy - Writing audio in Agile.wav
+MoviePy - Done.
+
+
+
+_____ Converted to mp3 _____
+
+
+
+
+______ Creating Audio-Extract: 1______
+
+______ Creating Audio-Extract: 2______
+
+______ Creating Audio-Extract: 3______
+
+______ Creating Audio-Extract: 4______
+
+______ Creating Audio-Extract: 5______
+
+______ Creating Audio-Extract: 6______
+
+______ Creating Audio-Extract: 7______
+
+______ Creating Audio-Extract: 8______
+
+______ Creating Audio-Extract: 9______
+
+______ Creating Audio-Extract: 10______
+
+______ Creating Audio-Extract: 11______
+
+______ Creating Audio-Extract: 12______
+
+______ Creating Audio-Extract: 13______
+
+______ Creating Audio-Extract: 14______
+
+______ Creating Audio-Extract: 15______
+
+______ Creating Audio-Extract: 16______
+
+______ Creating Audio-Extract: 17______
+
+______ Creating Audio-Extract: 18______
+
+______ Creating Audio-Extract: 19______
+
+______ Creating Audio-Extract: 20______
+
+______ Creating Audio-Extract: 21______
+
+______ Creating Audio-Extract: 22______
+
+______ Creating Audio-Extract: 23______
+
+______ Creating Audio-Extract: 24______
+
+______ Creating Audio-Extract: 25______
+
+______ Creating Audio-Extract: 26______
+
+______ Creating Audio-Extract: 27______
+
+______ Creating Audio-Extract: 28______
+
+______ Creating Audio-Extract: 29______
+
+______ Creating Audio-Extract: 30______
+
+______ Creating Audio-Extract: 31______
+
+______ Creating Audio-Extract: 32______
+
+______ Creating Audio-Extract: 33______
+
+______ Creating Audio-Extract: 34______
+
+______ Creating Audio-Extract: 35______
+
+
+
+_______ Total files Extracted :  35  _______
+
+
+
+
+[0, 5, 10, 20, 45, 55, 65, 75, 90, 95, 120, 125, 135, 150, 165, 190, 195, 200, 280, 295, 335, 350, 370, 400, 410, 415, 485, 510, 515, 530, 535, 540, 545, 550, 555, 565]
+Error while Deleing or Creating directory ./Transcripts
+
+
+
+
+File./Extracts/Agile-extract1.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+Error: 
+
+
+
+
+
+File./Extracts/Agile-extract2.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+ hi everyone my name is Ishan in a welcome you are
+
+
+
+
+File./Extracts/Agile-extract3.wav
+  Length    0 min : 10 sec
+
+Text-Extracted :
+ in this session we will be talking about Agile project management and several everything related to it before we Begin that have a look at all the topics we will be coming
+
+
+
+
+File./Extracts/Agile-extract4.wav
+  Length    0 min : 25 sec 
+
+Text-Extracted :
+ first you see the basics of agile project management then we will check the relevance and principles of agile project management used in C necessary steps to implement Agile methodology along with that we shall also see different frameworks involved in the process and finally we shall see some companies that use Agile project management so without any further ADO let's get started with what is Agile project management Agile project
+
+
+
+
+File./Extracts/Agile-extract5.wav
+  Length    0 min : 10 sec 
+
+Text-Extracted :
+ the name suggests is a flexible approach to building a project in Agile project management the project is broken down into several stages of sprint Agile does not work
+
+
+
+
+File./Extracts/Agile-extract6.wav
+  Length    0 min : 10 sec
+
+Text-Extracted :
+ delivering the final product at the end of the project works and delivering sections of a project on mini project the process of project management in the case of a joint
+
+
+
+
+File./Extracts/Agile-extract7.wav
+  Length    0 min : 10 sec
+
+Text-Extracted :
+ so there won't be any Central control of project manager as it was there in the traditional way of working before We moved for let's have a look at the Agile development cycle
+
+
+
+
+File./Extracts/Agile-extract8.wav
+  Length    0 min : 15 sec
+
+Text-Extracted :
+ consists of several small cycles as time at the end of each stage we get a mini project that the product backlog that explains new features changes in the existing features and several other improvements in the project then we have a sprint
+
+
+
+
+File./Extracts/Agile-extract9.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+ list of task that are to be completed during each sprint
+
+
+
+
+File./Extracts/Agile-extract10.wav
+  Length    0 min : 25 sec
+
+Text-Extracted :
+ planning designing execution testing and deployment stages and at the end of each sprint a mini project is delivered with every sprint new features are added to the product which plays a significant role in the overall protect growth after all the spring and early validation in the development of the final deliverable has a few chances of failure left now have a look at some reasons why industries and started moving
+
+
+
+
+File./Extracts/Agile-extract11.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+ the first reason is high product quality when we talk about
+
+
+
+
+File./Extracts/Agile-extract12.wav
+  Length    0 min : 10 sec
+
+Text-Extracted :
+ we refer to the builder of the product as per stakeholders demand testing is performed at short intervals of time whenever needed to ensure high quality of the product then
+
+
+
+
+File./Extracts/Agile-extract13.wav
+  Length    0 min : 15 sec
+
+Text-Extracted :
+ customer satisfaction whatever is done in the project is done by the customer that delivery is don't take longer duration as they used to take in the case of traditional ways the changes may be provided by the customer in the execution phase of the project third region is
+
+
+
+
+File./Extracts/Agile-extract14.wav
+  Length    0 min : 15 sec
+
+Text-Extracted :
+ since the project is divided into space through the risk effects once print it doesn't mean whole of the project will be at risk the process of risk analysis continues to take 
+place with all the other process another significant reason for Agile project
+
+
+
+
+File./Extracts/Agile-extract15.wav
+  Length    0 min : 25 sec
+
+Text-Extracted :
+ better and faster return on investment the project is not developed in civils Prince and each sprint has its own version therefore the project becomes market ready after few seconds only since the project can now be released with ease and shorter duration this helps your organisation to stay ahead in competition with respect to other organisations which are still not moved to Agile methodology now we shall check the
+
+
+
+
+File./Extracts/Agile-extract16.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+ project management there are 10 principles for successful Agile project
+
+
+
+
+File./Extracts/Agile-extract17.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+ the first principle is it satisfaction of the customer by delivering the product
+
+
+
+
+File./Extracts/Agile-extract18.wav
+  Length    1 min : 20 sec
+
+Text-Extracted :
+ least number of errors the next principal refers to decreasing the amount of time between the face of planning and delivery method principle states that the team of managers and Developers work together and increase the productivity of the work when X principle states that the change is requested by stakeholders can be taken into consideration and work upon during the development phase as well V principal pay attention to the factor of coordination among team members then the 6 principal refers to the process of monitoring and tracking the progress of the project at the end of each sprint and making amendment wherever needed moving on the next principle states that there must be a feeling of trust 
+and support towards the team to complete the project objective the next principal emphasizes on face-to-face conversations with the development team the face-to-face conversation helps in both solving problems and easy knowledge sharing than the knife principal emphasizes on finding solution and maximizing the amount of work done with sim implicitly this ensures timely completion of task by all the team members the last possible state that scrum tools like monday.com for Zoho sprints must be used to simplify the complicated code which for their help in saving time we should now see the steps in Agile project management the goal of agile
+
+
+
+
+File./Extracts/Agile-extract19.wav
+  Length    0 min : 15 sec
+
+Text-Extracted :
+ to produce shorter development life cycle and more frequent product releases than traditional waterfall project management so we will now check six steps in Agile project methodology the first step in the process is Project Planning Project Planning includes
+
+
+
+
+File./Extracts/Agile-extract20.wav
+  Length    0 min : 40 sec
+
+Text-Extracted :
+ study development of scope Breaking the project into executable tasks as prints and then estimating the amount of time needed to complete the spring the second step every step 
+of road map creation road map is a plan of action that shows how production evolved over time a list of all the features that the final product should have is created in the steps to achieve the teachers are taken the next important step is release planning since we are doing the project keeping in mind the Agile project methodology the project will complete in springs that means there will be the release of teachers at the end of each cycle and Unlike the traditional Waterfall model the development cycle will be small       
+
+
+
+
+File./Extracts/Agile-extract21.wav
+  Length    0 min : 15 sec
+
+Text-Extracted :
+ in Agile project management is sprint planning the spring Summer Heat keeping in mind what all is to be accomplished in that particular step at the beginning of each sprint the goal of the sprint is decided and steps to achieve that goal are taken
+
+
+
+
+File./Extracts/Agile-extract22.wav
+  Length    0 min : 20 sec
+
+Text-Extracted :
+ process emphasizes on daily meetings there are short meeting everyday to discuss if the team was able to finish the task for each sprint and check if there are any amendments that are required each team member talks about what they achieved in the last print and what are they going to work on in the next print the last step is
+
+
+
+
+File./Extracts/Agile-extract23.wav
+  Length    0 min : 30 sec
+
+Text-Extracted :
+ interview and retrospective there are two meeting after each print first meeting is not the sprint review this meeting is with the stakeholders to show them the finished product this helps both sides to build a relationship and discuss if there are any issues in the end product the second meeting is for having a sprint retrospective this meeting involved the stakeholders to discuss what went well and what went wrong during the sprint sprint retrospective takes place after the sprint review and before the next trip planning  
+
+
+
+
+File./Extracts/Agile-extract24.wav
+  Length    0 min : 10 sec
+
+Text-Extracted :
+ the steps needed for Agile project methodology we must understand some Agile project management frameworks there are several frameworks available today here
+
+
+
+
+File./Extracts/Agile-extract25.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+ discussing some of the most popular Framework the first Framework people desk
+
+
+
+
+File./Extracts/Agile-extract26.wav
+  Length    1 min : 10 sec
+
+Text-Extracted :
+ kanban Framework Framework is a well-known Framework for implementing Agile Software Development in the case of kanban Framework work items are represented on the kanban board 
+which helps all the team members to see the state of every piece of work at any time kanban board not only helps in visualising the work but also optimising the workflow among the team the next Framework we will discuss today is the scrum Framework scrum Framework is a popular Framework for managing Complex knowledge to work like in the field of research and advanced technology is a simple Framework that helps team work together and learn through the experiences gained while working on a problem III Framework we will see today is the hybrid Framework the hybrid Framework is a combination of agile methodology and non Agile methodology in the case of a hybrid Framework planning is done using the traditional way of project management while the execution and delivery is done using the Agile methodology since the hybrid is a combination of the two it handles the requirement changes and delivers the product in different stages the fourth and the last member we will see
+
+
+
+
+File./Extracts/Agile-extract27.wav
+  Length    0 min : 25 sec
+
+Text-Extracted :
+ Selenium Framework works on the principle of providing maximum customer value and creating zero waste it focuses on optimising the flow of product all through the value stream 
+that helps in eliminating waste all through the process and create processes that requires less human effort this also simplifies the process of information management and makes it more accurate finally let's have a look at
+
+
+
+
+File./Extracts/Agile-extract28.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+ data opted for Agile project management today around 22
+
+
+
+
+File./Extracts/Agile-extract29.wav
+  Length    0 min : 15 sec
+
+Text-Extracted :
+ patients worldwide have all the teams working on the principle of agile project methodology let's have a look at some of the most prominent companies in the world that use Agile project management in the list we have IBM Cisco
+
+
+
+
+File./Extracts/Agile-extract30.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+ Microsoft Phillips and sons and with this we have come to the end
+
+
+
+
+File./Extracts/Agile-extract31.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+ I hope you guys found it informative and helpful thanks for watching and
+
+
+
+
+File./Extracts/Agile-extract32.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+ simplilearn
+
+
+
+
+File./Extracts/Agile-extract33.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+ hi there if you like this video subscribe to the simple in YouTube
+
+
+
+
+File./Extracts/Agile-extract34.wav
+  Length    0 min : 5 sec
+
+Text-Extracted :
+ watch similar videos in adopt and get certified
+
+
+
+
+File./Extracts/Agile-extract35.wav
+  Length    0 min : 2 sec
+
+Text-Extracted :
+Error: 
+
+
+
+
+ _______ Entire Transcript is _______
+
+  .  hi everyone my name is Ishan in a welcome you are .  in this session we will be talking about Agile project management and several everything related to it before we Begin 
+that have a look at all the topics we will be coming .  first you see the basics of agile project management then we will check the relevance and principles of agile project management used in C necessary steps to implement Agile methodology along with that we shall also see different frameworks involved in the process and finally we shall see some companies that use Agile project management so without any further ADO let's get started with what is Agile project management Agile project .  the name suggests is a flexible approach to building a project in Agile project management the project is broken down into several stages of sprint Agile does not work .  delivering the final product at the end of the project works and delivering sections of a project on mini project the process of project management in the case of a joint .  so there won't be any Central control of project manager as it was there in the traditional way of working before We moved for let's have a look at the Agile development cycle .  consists of several small cycles as time at the end of each stage we get a mini project that the product backlog that explains new features changes in the existing features and several other improvements in the project then we have a sprint .  list of task that are to be completed during each sprint .  planning designing execution testing and deployment stages and at the end of each sprint a mini project is delivered with every sprint new features are added to the product which plays a significant role in the overall protect growth after all the spring and early validation in the development of the final deliverable has a few chances of failure left now have a look at some reasons why industries and started moving .  the first reason is high product quality when we talk about .  we refer to the builder of the product as per stakeholders demand testing is performed at short intervals of time whenever needed to ensure high quality of the product then .  customer satisfaction whatever is done in the project is done by the customer that delivery is don't take longer duration as they used to take in the case of traditional ways the changes may be provided by the customer in the execution phase of the project third region is .  since the project is divided into space 
+through the risk effects once print it doesn't mean whole of the project will be at risk the process of risk analysis continues to take place with all the other process another 
+significant reason for Agile project .  better and faster return on investment the project is not developed in civils Prince and each sprint has its own version therefore the project becomes market ready after few seconds only since the project can now be released with ease and shorter duration this helps your organisation to stay ahead in competition 
+with respect to other organisations which are still not moved to Agile methodology now we shall check the .  project management there are 10 principles for successful Agile project .  the first principle is it satisfaction of the customer by delivering the product .  least number of errors the next principal refers to decreasing the amount of time between the face of planning and delivery method principle states that the team of managers and Developers work together and increase the productivity of the work when X principle states that the change is requested by stakeholders can be taken into consideration and work upon during the development phase as well V principal pay attention to the factor of 
+coordination among team members then the 6 principal refers to the process of monitoring and tracking the progress of the project at the end of each sprint and making amendment 
+wherever needed moving on the next principle states that there must be a feeling of trust and support towards the team to complete the project objective the next principal emphasizes on face-to-face conversations with the development team the face-to-face conversation helps in both solving problems and easy knowledge sharing than the knife principal emphasizes on finding solution and maximizing the amount of work done with sim implicitly this ensures timely completion of task by all the team members the last possible state that scrum tools like monday.com for Zoho sprints must be used to simplify the complicated code which for their help in saving time we should now see the steps in Agile project management the goal of agile .  to produce shorter development life cycle and more frequent product releases than traditional waterfall project management so we will now check six steps in Agile project methodology the first step in the process is Project Planning Project Planning includes .  study development of scope Breaking the project into executable tasks as prints and then estimating the amount of time needed to complete the spring the second step every step of road map creation road map is a plan of action that shows how production evolved over time a list of all the features that the final product should have is created in the steps to achieve the teachers are taken the next important step is release planning since we are doing the project keeping in mind the Agile project methodology the project will complete in springs that means there will be the release of teachers at the end of each cycle and Unlike the traditional Waterfall model the development cycle will be small .  in Agile project management is sprint planning the spring Summer Heat keeping in mind what all is to be accomplished in that particular step at the beginning of each sprint the goal of the sprint is decided and steps to achieve that goal are taken .  process emphasizes on daily meetings there are short meeting everyday to discuss if the team was able to finish the task for each sprint and check if there are any amendments that are required each team member talks about what they achieved in the last print and what are they going to work on in the next print the last step is .  interview and 
+retrospective there are two meeting after each print first meeting is not the sprint review this meeting is with the stakeholders to show them the finished product this helps both sides to build a relationship and discuss if there are any issues in the end product the second meeting is for having a sprint retrospective this meeting involved the stakeholders to discuss what went well and what went wrong during the sprint sprint retrospective takes place after the sprint review and before the next trip planning .  the steps needed for Agile project methodology we must understand some Agile project management frameworks there are several frameworks available today here .  discussing some of the most popular Framework the first Framework people desk .  kanban Framework Framework is a well-known Framework for implementing Agile Software Development in the case of kanban Framework work items are represented on the kanban board which helps all the team members to see the state of every piece of work at any time kanban board not only helps in visualising the work but also optimising the workflow among the team the next Framework we will discuss today is the scrum Framework scrum Framework is a popular Framework for managing Complex knowledge to work like in the field of research and advanced technology is a simple Framework that helps team work together and learn through the experiences gained while working on a problem III Framework we will see today is the hybrid Framework the hybrid Framework is a combination of agile methodology and non Agile methodology in the case of a hybrid Framework planning is done using the traditional way of project management while the execution and delivery is done using the Agile methodology since the hybrid is a combination of the two it handles the requirement changes and delivers the product in different stages the fourth and the last member we will see .  Selenium Framework works on the principle of providing maximum customer value and creating zero waste it focuses on optimising the flow of product all through the value stream that helps in eliminating waste 
+all through the process and create processes that requires less human effort this also simplifies the process of information management and makes it more accurate finally let's 
+have a look at .  data opted for Agile project management today around 22 .  patients worldwide have all the teams working on the principle of agile project methodology let's have a look at some of the most prominent companies in the world that use Agile project management in the list we have IBM Cisco .  Microsoft Phillips and sons and with this we have come to the end .  I hope you guys found it informative and helpful thanks for watching and .  simplilearn .  hi there if you like this video subscribe to the simple in YouTube .  watch similar videos in adopt and get certified .  .
+
+
+
+  ========= Summary File : Agile-summ1.txt ========
+
+Summary using T5 Model : 
+
+ .:: :. a: summarize: here: the s:!: this: all:...: click: link: 
+
+
+
+
+
+  ========= Summary File : Agile-summ2.txt ========
+
+Summary using T5 Model : 
+
+ hi everyone my name is Ishan in a welcome welcome you are. hi everybody's name and name are Iishan. 
+
+
+
+
+
+  ========= Summary File : Agile-summ3.txt ========
+
+Summary using T5 Model : 
+
+ in this session we will be talking about Agile project management and several everything related to it before we Begin that have a look at all the topics we are coming to be coming. the session will focus on the next step of the development process and the future of agile projects management.
+
+
+
+
+
+  ========= Summary File : Agile-summ4.txt ========
+
+Summary using T5 Model : 
+
+ we will check the relevance and principles of agile project management used in C necessary steps to implement Agile methodology. we shall also see different frameworks involved in the process and finally we'll see some companies that use Agile projects management so without any further ADO let's get started with what is Agile Project management Agile 
+project manager - a project based on the basics of Agile.
+
+
+
+
+
+  ========= Summary File : Agile-summ5.txt ========
+
+Summary using T5 Model : 
+
+ sprint Agile does not work the project is broken down into several stages of sprint. the name suggests is a flexible approach to building an project in Agile project management.
+
+
+
+
+
+  ========= Summary File : Agile-summ6.txt ========
+
+Summary using T5 Model : 
+
+ final product at the end of the project works and delivering sections of a project on mini project the process of project management in the case of joint joint projects. 
+
+
+
+
+
+  ========= Summary File : Agile-summ7.txt ========
+
+Summary using T5 Model : 
+
+ so there won't be any Central control of project manager as it was there in the traditional way of working before We moved for let's have a look at the Agile development cycle. we're going to see if we will be able to get to the next stage of the project management cycle.
+
+
+
+
+
+  ========= Summary File : Agile-summ8.txt ========
+
+Summary using T5 Model : 
+
+ consists of several small cycles as time at the end of each stage we get a mini project that the product backlog that explains new features changes in the existing features and several other improvements. we have an sprint sprint that we can get to the final stage of the project and we will get the prototype prototype that will be released in january.
+
+
+
+
+
+  ========= Summary File : Agile-summ9.txt ========
+
+Summary using T5 Model : 
+
+ list of tasks that are to be completed during each sprint sprint. task list will be complete. list a task that can be done during the list.. 
+
+
+
+
+
+  ========= Summary File : Agile-summ10.txt ========
+
+Summary using T5 Model : 
+
+ planning execution testing and deployment stages and at the end of each sprint a mini project is delivered with every sprint new features are added to the product. the final deliverable is expected to be delivered in the u.s.
+
+
+
+
+
+  ========= Summary File : Agile-summ11.txt ========
+
+Summary using T5 Model : 
+
+ the first reason is high product quality when we talk about high quality products. the best reason for good quality is the quality of the product. it's the #1 reason to the highest quality quality. a good product is good..
+
+
+
+
+
+  ========= Summary File : Agile-summ12.txt ========
+
+Summary using T5 Model : 
+
+ we refer to the builder of the product as per stakeholders demand testing is performed at short intervals of time. tests are performed to ensure high quality of product then the test is carried out in a ssr. if you are able to test your product, we will test it for you.. it will be tested and tested for the best quality and the quality test. the testing tests is based on the results and compared with the ns
+
+
+
+
+
+  ========= Summary File : Agile-summ13.txt ========
+
+Summary using T5 Model : 
+
+ customer satisfaction is done by the customer that delivery is don't take longer duration as they used to take traditional ways the changes may be provided in the execution phase of the project third region is. the delivery process is not a long time as it is the same as the traditional methods. delivery will not take long duration - the change may not be done in traditional way, allowing the customers to deliver the best results for the future.
+
+
+
+
+
+  ========= Summary File : Agile-summ14.txt ========
+
+Summary using T5 Model :
+
+ Agile project is divided into space through the risk effects once print it doesn't mean whole of the project will be at risk. the process of risk analysis continues to take place with all the other process another significant reason for a project. it's not the same if it is the result of risks analysis - it has been the reason behind the success of this process.
+
+
+
+
+
+  ========= Summary File : Agile-summ15.txt ========
+
+Summary using T5 Model :
+
+ the project is not developed in civils Prince and each sprint has its own version. it becomes market ready after few seconds only since it can now be released with ease and shorter duration this helps your organisation to stay ahead in competition with respect to other organisations which are still not moved to Agile methodology now we shall check the the ad s's' - if you are not moving to agile methodology then we will check it! the team will be able to
+
+
+
+
+
+  ========= Summary File : Agile-summ16.txt ========
+
+Summary using T5 Model : 
+
+ project management there are 10 principles for successful Agile project. a 10 pps: projects management here are ten principles..: project managers there have 10 tips for implementing the best s : i... u & e! compiled 10 top 10 ideas for successfully Agile projects.
+
+
+
+
+
+  ========= Summary File : Agile-summ17.txt ========
+
+Summary using T5 Model : 
+
+ the first principle is it satisfaction of the customer by delivering the product. it is a simple principle : it's the best.: the 'first principle' is to satisfaction by the customers by providing the highest quality..
+
+
+
+
+
+  ========= Summary File : Agile-summ18.txt ========
+
+Summary using T5 Model : 
+
+ the next principal refers to decreasing the amount of time between the face of planning and delivery method principle. X principle states that the change is requested by stakeholders can be taken into consideration and work upon during the development phase as well as V principal pay attention to the factor of coordination among team members then the 
+6 principal referenced the process of monitoring and tracking the progress of the project at the end of each sprint and making amendment wherever needed moving on a next principle says there must be
+
+
+
+
+
+  ========= Summary File : Agile-summ19.txt ========
+
+Summary using T5 Model : 
+
+ to produce shorter development life cycle and more frequent product releases than traditional waterfall project management so we will now check six steps in Agile project methodology the first step in the process is Project planning project planning includes. a project plan is aimed at reducing the development cycle, achieving shorter growth life cycles and longer product release lifecycle. the next step is project Planning Project Planning will include introducing the new project : allowing the project to be able to create 
+more efficient projects
+
+
+
+
+
+  ========= Summary File : Agile-summ20.txt ========
+
+Summary using T5 Model : 
+
+ road map is a plan of action that shows how production evolved over time. the project will complete in springs that means there will be the release of teachers at the end of each cycle and unlike the traditional Waterfall model the development cycle will not be small.
+
+
+
+
+
+  ========= Summary File : Agile-summ21.txt ========
+
+Summary using T5 Model : 
+
+ in Agile project management is sprint planning the spring summer heat keeping in mind what all is to be accomplished in that particular step at the beginning of each sprint the goal of the sprint is decided and steps to achieve that goal are taken. a sprint plan is based on the success of achieving the goals of this sprint. it is the fastest sprint in the world and the best sprints for the fall fall heat.
+
+
+
+
+
+  ========= Summary File : Agile-summ22.txt ========
+
+Summary using T5 Model : 
+
+ team member talks about what they achieved in the last print and what are they going to work on next print the final step is the process emphasizes on daily meetings there are 
+short meeting everyday to discuss if the team was able to finish the task for each sprint.
+
+
+
+
+
+  ========= Summary File : Agile-summ23.txt ========
+
+Summary using T5 Model : 
+
+ the sprint retrospective takes place after sprint review and before the next trip planning trip. this meeting involves stakeholders to discuss what went well and what was wrong during sprint sprint retro take place a second meeting is for having an interview and retrospective there are two meeting after each print first meeting are not the Sprint review this meetings are with the stakeholders and discuss if there is any issues in the end product.
+
+
+
+
+
+  ========= Summary File : Agile-summ24.txt ========
+
+Summary using T5 Model : 
+
+ the steps needed for Agile project methodology we must understand some agile project management frameworks there are several Frameworks available today here. a framework for the step needed to understand the pitfalls of the framework. here are some examples of steps to follow here.
+
+
+
+
+
+  ========= Summary File : Agile-summ25.txt ========
+
+Summary using T5 Model : 
+
+ discussing some of the most popular Framework the first Framework people desk. discussing a brief briefing on how to use the framework in the u. here. talking about the latest 
+Framework : discussing the top ten topics in this this week.
+
+
+
+
+
+  ========= Summary File : Agile-summ26.txt ========
+
+Summary using T5 Model : 
+
+ kanban Framework Framework is a well-known Framework for implementing Agile Software Development. the scrum Framework allows team members to see the state of every piece of work at any time and helps in visualising the work and optimising workflow among the team the next Framework we will discuss today is the hybrid Framework based on agile methodology and non Agile methodology - hybrid frameworks are used to deliver the product in different stages the fourth and the last member we'll see today
+
+
+
+
+
+  ========= Summary File : Agile-summ27.txt ========
+
+Summary using T5 Model : 
+
+ Selenium Framework works on the principle of providing maximum customer value and creating zero waste. it focuses on optimising the flow of product all through the value stream that helps in eliminating waste and create processes that require less human effort this also simplifies the process of information management and makes it more accurate finally let's have a look at the principles of reducing waste.
+
+
+
+
+
+  ========= Summary File : Agile-summ28.txt ========
+
+Summary using T5 Model : 
+
+ data opted for Agile project management today around 22.. data opt for a unified project s : data is opting for agile project managing. 
+
+
+
+
+
+  ========= Summary File : Agile-summ29.txt ========
+
+Summary using T5 Model : 
+
+ patients worldwide have all the teams working on the principle of agile project methodology let's have a look at some of the most prominent companies in the world that use Agile project management. the list we have IBM Cisco Cisco and others have the same team that work on agile projects methodology.
+
+
+
+
+
+  ========= Summary File : Agile-summ30.txt ========
+
+Summary using T5 Model : 
+
+ with this we have come to the end with Microsoft Phillips and sons. Microsoft is now putting together a series of symbiosis and ipads for the u.s. 
+
+
+
+
+
+  ========= Summary File : Agile-summ31.txt ========
+
+Summary using T5 Model : 
+
+ I hope you guys found it informative and helpful thanks for watching and watching. a great site to help you read it.. and it's helpful and informative. 
+
+
+
+
+
+  ========= Summary File : Agile-summ32.txt ========
+
+Summary using T5 Model : 
+
+ simplilearns: simple simple : simpliles. simplil: s simple: easy simple.: simplifyle a: 
+
+
+
+
+
+  ========= Summary File : Agile-summ33.txt ========
+
+Summary using T5 Model : 
+
+ hi hi there if you like this video subscribe to the simple in YouTube. hi here i like the easy in video here. subscribe a link to this link here to my link link below. follow the video below to get the videos here! hi it u hi you! subscribe here for the quick in Youtube channel.
+
+
+
+
+
+  ========= Summary File : Agile-summ34.txt ========
+
+Summary using T5 Model : 
+
+ watch similar videos in adopt and get certified certified. follow similar video in adopt & get certifications - see similar clips in the video below. 
+
+
+
+
+
+  ========= Summary File : Agile-summ35.txt ========
+
+Summary using T5 Model :
+
+ .:: :. a: summarize: here: the s:!: this: all:...: click: link:
+
+
+
+
+
+  ========= Summary File : Agile-Summary.txt ========
+
+Token indices sequence length is longer than the specified maximum sequence length for this model (1722 > 512). Running this sequence through the model will result in indexing errors
+Summary using T5 Model : 
+
+ we will be talking about Agile project management and several everything related to it before we Begin. the first step in the process is project planning and a sprint retrospective this meeting involved the stakeholders to discuss what went well and what was going wrong during the sprint review and before the next trip planning.
+
+
+
+C:\Projects\KeyFrames and Summarization\Final Version>^A

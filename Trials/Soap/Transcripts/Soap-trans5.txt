@@ -1,0 +1,1 @@
+ calls or you can say a standard for exchanging data between different applications or system the exchange of this data is preferably in a standard format like JSON or XML the importance that of a web service is to provide a service not necessarily and user interface for humans to consume so you can say that the web services are meant mostly for other application or systems or

@@ -1,0 +1,1 @@
+ compiler was already discussed in the previous lecture in this lecture will go through each of the phases in compiler and try to explore its details

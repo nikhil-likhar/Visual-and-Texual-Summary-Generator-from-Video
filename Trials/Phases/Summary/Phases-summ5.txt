@@ -1,0 +1,1 @@
+if this is the input program given to the lexical analyser I have written a small C program with print the numbers from 1 to 10. the output would be every single token is identified and now something has to be done with these tokens will see what is going on in the spot the video for the moment and try to count the token number 'in account'

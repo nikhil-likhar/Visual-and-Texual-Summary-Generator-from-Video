@@ -1,0 +1,1 @@
+that you have a consumer who is trying to get some information from an service provider so what you will do you would send your soap request which is using this XML file. the model number is used in this particular xML definition for example for tv details, if you love contact an endpoint URL and get details of an e-mail address.

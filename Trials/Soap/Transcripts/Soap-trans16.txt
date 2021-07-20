@@ -1,0 +1,1 @@
+ that you have a consumer like a service consumer who is trying to get some information from a service provider so what you will do you would send your soap request which is using this XML file where you will love contact an endpoint URL for example to get details of a tv you will probably send this the model number in this particular XML definition

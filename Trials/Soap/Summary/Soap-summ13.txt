@@ -1,0 +1,1 @@
+you can work on almost any internet protocol when you're working with soap. soap works on a variety of products and can be used on any web protocol such as the http, use FTP or MTU for example. if you are working on soap soap is not an object access protocol - it is nothing but 'a protocol'

@@ -1,0 +1,1 @@
+in this video we going to discuss what is the service will spend some time talking about some Practical uses of Web Services. will take a look at different types of services and then will spent time on soap will be understanding how rest work and finally be able to understand the rest of work.

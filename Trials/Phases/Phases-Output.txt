@@ -1,0 +1,789 @@
+Capture30 : Similarity = 0.9972010850906372
+
+
+Capture31 : Similarity = 0.9972010850906372
+
+
+Capture32 : Similarity = 0.9972987174987793
+
+
+Capture33 : Similarity = 0.9972010850906372
+
+
+Capture34 : Similarity = 0.9940431714057922
+
+
+Capture35 : Similarity = 0.9940217733383179
+
+
+Capture36 : Similarity = 0.9941336512565613
+
+
+Capture37 : Similarity = 0.9941336512565613
+
+
+Capture38 : Similarity = 0.9941336512565613
+
+
+Capture39 : Similarity = 0.9941336512565613
+
+
+Capture40 : Similarity = 0.9941336512565613
+
+
+Capture41 : Similarity = 0.9941336512565613
+
+
+Capture42 : Similarity = 0.9941336512565613
+
+
+Capture43 : Similarity = 0.9941336512565613
+
+
+Capture44 : Similarity = 0.9941359162330627
+
+
+Capture45 : Similarity = 0.99390709400177
+
+
+Capture46 : Similarity = 0.99390709400177
+
+
+Capture47 : Similarity = 0.99390709400177
+
+
+Capture48 : Similarity = 0.9936288595199585
+
+
+Capture49 : Similarity = 0.9936068654060364
+
+
+Capture50 : Similarity = 0.9934996366500854
+
+
+Capture51 : Similarity = 0.9756177663803101
+
+
+Capture52 : Similarity = 0.9760898351669312
+
+
+Capture53 : Similarity = 0.9761670827865601
+
+
+Capture54 : Similarity = 0.9761670827865601
+
+
+Capture55 : Similarity = 0.9761670827865601
+
+
+Capture56 : Similarity = 0.9761670827865601
+
+
+Capture57 : Similarity = 0.9761670827865601
+
+
+Capture58 : Similarity = 0.9760660529136658
+
+
+Capture59 : Similarity = 0.9736178517341614
+
+
+Capture60 : Similarity = 0.9732131958007812
+
+
+Capture61 : Similarity = 0.9423483610153198
+
+
+Capture62 : Similarity = 0.9539512395858765
+
+
+Capture63 : Similarity = 0.9525105357170105
+
+
+Capture64 : Similarity = 0.9393531680107117
+
+
+Capture65 : Similarity = 0.9276864528656006
+
+
+Capture66 : Similarity = 0.9256119132041931
+
+
+Capture67 : Similarity = 0.9260261654853821
+
+
+Capture68 : Similarity = 0.9260261654853821
+
+
+Capture69 : Similarity = 0.9260261654853821
+
+
+Capture70 : Similarity = 0.926114559173584
+
+
+Capture71 : Similarity = 0.9258426427841187
+
+
+Capture72 : Similarity = 0.9258426427841187
+
+
+Capture73 : Similarity = 0.9258426427841187
+
+
+Capture74 : Similarity = 0.9258426427841187
+
+
+Capture75 : Similarity = 0.9249464869499207
+
+
+Capture76 : Similarity = 0.9249464869499207
+
+
+Capture77 : Similarity = 0.9249464869499207
+
+
+Capture78 : Similarity = 0.9249464869499207
+
+
+Capture79 : Similarity = 0.9249503016471863
+
+
+Capture80 : Similarity = 0.9208189845085144
+
+
+Capture81 : Similarity = 0.915884256362915
+
+
+Capture82 : Similarity = 0.9150866866111755
+
+
+Capture83 : Similarity = 0.9107444882392883
+
+
+Capture84 : Similarity = 0.9112514853477478
+
+
+Capture85 : Similarity = 0.9112514853477478
+
+
+Capture86 : Similarity = 0.7508766055107117
+______ Creating... frame4 ______
+
+
+Capture87 : Similarity = 0.9985962510108948
+
+
+Capture88 : Similarity = 0.9979318976402283
+
+
+Capture89 : Similarity = 0.9979248046875
+
+
+Capture90 : Similarity = 0.9985369443893433
+
+
+Capture91 : Similarity = 0.9958198070526123
+
+
+Capture92 : Similarity = 0.9958069920539856
+
+
+Capture93 : Similarity = 0.9958893060684204
+
+
+Capture94 : Similarity = 0.9958809614181519
+
+
+Capture95 : Similarity = 0.9960551857948303
+
+
+Capture96 : Similarity = 0.995603084564209
+
+
+Capture97 : Similarity = 0.9934278726577759
+
+
+Capture98 : Similarity = 0.9937136173248291
+
+
+Capture99 : Similarity = 0.9913833141326904
+
+
+Capture100 : Similarity = 0.9907734990119934
+
+
+Capture101 : Similarity = 0.9907395839691162
+
+
+Capture102 : Similarity = 0.9907387495040894
+
+
+Capture103 : Similarity = 0.8478823304176331
+______ Creating... frame5 ______
+
+
+Capture104 : Similarity = 0.999849796295166
+
+
+Capture105 : Similarity = 0.9999229311943054
+
+
+Capture106 : Similarity = 0.997127890586853
+
+
+Capture107 : Similarity = 0.9970894455909729
+
+
+Capture108 : Similarity = 0.9921894073486328
+
+
+Capture109 : Similarity = 0.9927117824554443
+
+
+Capture110 : Similarity = 0.9928493499755859
+
+
+Capture111 : Similarity = 0.9899493455886841
+
+
+Capture112 : Similarity = 0.9876692295074463
+
+
+Capture113 : Similarity = 0.9878021478652954
+
+
+Capture114 : Similarity = 0.9854294657707214
+
+
+Capture115 : Similarity = 0.975268542766571
+
+
+Capture116 : Similarity = 0.9748896956443787
+
+
+Capture117 : Similarity = 0.976384699344635
+
+
+Capture118 : Similarity = 0.9766231179237366
+
+
+Capture119 : Similarity = 0.9766231179237366
+
+
+Capture120 : Similarity = 0.9762279391288757
+
+
+Capture121 : Similarity = 0.9580289125442505
+
+
+Capture122 : Similarity = 0.948646605014801
+
+
+Capture123 : Similarity = 0.942881166934967
+
+
+Capture124 : Similarity = 0.9404008984565735
+
+
+Capture125 : Similarity = 0.9404808282852173
+
+
+Capture126 : Similarity = 0.9393603205680847
+
+
+Capture127 : Similarity = 0.9393631815910339
+
+
+Capture128 : Similarity = 0.9423054456710815
+
+
+Capture129 : Similarity = 0.9374411106109619
+
+
+Capture130 : Similarity = 0.9344183802604675
+
+
+Capture131 : Similarity = 0.9278533458709717
+
+
+Capture132 : Similarity = 0.9270296096801758
+
+
+Capture133 : Similarity = 0.927286684513092
+______ Creating... frame6______ 
+
+
+
+_______ Elapsed Time:    2 min : 51 sec _______
+
+
+Images Generated:  135
+Images Selected:  7 
+
+
+Markers for Segmentation  :  [0, 10, 25, 40, 430, 515, 675]
+
+
+
+
+<<<<<<<<< Video to Audio-Segmentation based on Markers >>>>>>>>>>       
+
+
+MoviePy - Writing audio in Phases.wav
+MoviePy - Done.
+
+
+
+_____ Converted to mp3 _____
+
+
+
+
+______ Creating Audio-Extract: 1______
+
+______ Creating Audio-Extract: 2______
+
+______ Creating Audio-Extract: 3______
+
+______ Creating Audio-Extract: 4______
+
+______ Creating Audio-Extract: 5______
+
+______ Creating Audio-Extract: 6______
+
+
+
+_______ Total files Extracted :  6  _______
+
+
+
+
+[0, 10, 25, 40, 430, 515, 675]
+
+
+Length of the Audio-Chunk is ==>    0 min : 10 sec
+
+
+
+Text Extracted from Audio File ./Extracts/Phases-extract1.wav is :      
+
+
+ lecture on phases of compiler the objective of the letter is to inter
+
+
+Length of the Audio-Chunk is ==>    0 min : 15 sec
+
+
+
+Text Extracted from Audio File ./Extracts/Phases-extract2.wav is :      
+
+
+ compilation and then we try to relate them to language construct the language constructs you might have already studied in theory of computation so this brief overview of
+
+
+Length of the Audio-Chunk is ==>    0 min : 15 sec
+
+
+
+Text Extracted from Audio File ./Extracts/Phases-extract3.wav is :      
+
+
+ compiler was already discussed in the previous lecture in this lecture 
+will go through each of the phases in compiler and try to explore its details
+
+
+Length of the Audio-Chunk is ==>    6 min : 30 sec
+
+
+
+Text Extracted from Audio File ./Extracts/Phases-extract4.wav is :      
+
+
+ so lexical analysis is the first page of compilation process and this lexical analyser is sometimes also called as Kana now why scanner because this is the only face with gets to interact with the source program should be source program here is nothing but our high level language program se for example if there is a c compiler then the source program would 
+be a high level language program which is written in C language and as well as it get it gets into the compiler it first goes to the lexical analyser also called as camp with scans the input from the C program for hence it is also called as I can see why it is called as a lexical analyser so it is the interface of the compiler to the outside world this is the only phase which receives the input from the C program to get the source program which is safe for example in C or any high level language the lexical analyser stars is to give a stream of tokens Nabi tokens are basically representation of logically cohesive sequence of characters to be sequence of tokens are also referred to as Lexi hence the name of the 
+save is lexical analysis the water token can we for any specific language it depends on the line image which is considered show some common examples of tokens are listed here so keywords from the language can be the 
+example of tokens operators identifier symbols constant from string with you take as input all these are type of tokens so basically these are the vocabulary of any language write so whenever you try to learn a new language were taught what are the keywords in this language for tour operators you can use what all are the rules to generate the name for a identify identify everything but a variable or a variable name with you give symbols various symbols which are allowed and there could be some constant numbers in the program there could be some strings se printer statements have string inside have some text inside "that is referred to as strings so what does a lexical analyser do it scans the input source program identify the valid words from the language what could be there is valid words this can be any one of these which are listed it also removes the extra white spaces while writing the program is then you might give some extra blank spaces you also provide certain comments so all these things are not meaningful to the program right so all these are removed and only the important words which are Koi called as tokens for leg zines 
+which belong to that language would be extracted now generally a lexical analyser is implemented as a finite automata so just to remind you what a finite automata is you start from a starting state this se start state is is 0 and then if you get some input se you go and proceed to some others date and this goes on until you reach se final state that is to accept any token or to do tokenization we need to implement a finite automata so lexical analyser in just some of what a lexical analyser Does It 
+Breaks up the source program into tokens what are tokens tokens could be keyword operator identify anything and how is it done flood know whether the incoming now everything is scanned a character by character se if 
+I have in the program void so it will first can we then over then I then the and then comes up space after it Encounters BOI ID and then it gets to know of space is there it knows ok before space the world was wide and it then checks whether wide can be part of anything any token which is specified in the language yes why I recognise wide is a reserved word 
+or maybe it can be simply called as a Keyword because it has a reserved 
+meaning in a language to avoid is used in the sea so I'll show you an example here
+
+
+Length of the Audio-Chunk is ==>    1 min : 25 sec
+
+
+
+Text Extracted from Audio File ./Extracts/Phases-extract5.wav is :      
+
+
+ if this is the input program given to the lexical analyser I have written a small C program with print the numbers from 1 to 10 and you give it to the lexical analyser and just want to see what will be the output of it so the output would be every single token is identified and now something has to be done with these tokens will see what has to be done so that the spot the video for a moment and try to count how many tokens will be there and what these tokens will be so wide is one main is one opening (closing) {in account; all these are different tokens less than equal to 10 is a a separate token; is a separate tokens of all these tokens 
+would be identified this is the work of a lexical analyser using all these tokens it stores this in a symbol table
+
+
+Length of the Audio-Chunk is ==>    2 min : 32 sec
+
+
+
+Text Extracted from Audio File ./Extracts/Phases-extract6.wav is :      
+
+
+ what does in the symbol table would contain wheels talk about a few entries related on will discuss the symbol table in detail so what it does 
+it create a tuple entry of the typetoken type and attribute Kari so if we consider a statement se in account is equal to one and then there is a seneca taking the first world for the token here is in token type so what type of token is in it it is basically a reserved word for a ki world now what will the symbol table entry be the symbol table entries token 
+type fat open type here is keyword and the attribute value the actual value of this token which is in next word is account so what is count count is not a reserved word it is not an operator not a constant it is basically some variable which the programmer might have created this account is nothing but a variable should be referred to the variable as an identifier what will be the symbol table entry it would be identified have used a small form of identified as ID generally will be using ID to denote the identifier and now hear the symbol table entry was in this ain't is already defined but we haven't define count it right so count would be basically a variable which is allotted some place so this will be the second entry here the attribute value would be the pointer to that memory location this is a memory location where we have the account back probably continue with this video as the second part in the next lecture     
+
+
+
+ _______ Entire Transcript is _______
+
+  lecture on phases of compiler the objective of the letter is to inter 
+compilation and then we try to relate them to language construct the language constructs you might have already studied in theory of computation so this brief overview of compiler was already discussed in the previous lecture in this lecture will go through each of the phases in compiler and try to explore its details so lexical analysis is the first page of compilation process and this lexical analyser is sometimes also called 
+as Kana now why scanner because this is the only face with gets to interact with the source program should be source program here is nothing but our high level language program se for example if there is a c compiler then the source program would be a high level language program which is written in C language and as well as it get it gets into the compiler it first goes to the lexical analyser also called as camp with scans the 
+input from the C program for hence it is also called as I can see why it is called as a lexical analyser so it is the interface of the compiler 
+to the outside world this is the only phase which receives the input from the C program to get the source program which is safe for example in C or any high level language the lexical analyser stars is to give a stream of tokens Nabi tokens are basically representation of logically cohesive sequence of characters to be sequence of tokens are also referred to as Lexi hence the name of the save is lexical analysis the water token 
+can we for any specific language it depends on the line image which is considered show some common examples of tokens are listed here so keywords from the language can be the example of tokens operators identifier symbols constant from string with you take as input all these are type of 
+tokens so basically these are the vocabulary of any language write so whenever you try to learn a new language were taught what are the keywords in this language for tour operators you can use what all are the rules 
+to generate the name for a identify identify everything but a variable or a variable name with you give symbols various symbols which are allowed and there could be some constant numbers in the program there could be some strings se printer statements have string inside have some text inside "that is referred to as strings so what does a lexical analyser do 
+it scans the input source program identify the valid words from the language what could be there is valid words this can be any one of these which are listed it also removes the extra white spaces while writing the program is then you might give some extra blank spaces you also provide certain comments so all these things are not meaningful to the program right so all these are removed and only the important words which are Koi 
+called as tokens for leg zines which belong to that language would be extracted now generally a lexical analyser is implemented as a finite automata so just to remind you what a finite automata is you start from a starting state this se start state is is 0 and then if you get some input 
+se you go and proceed to some others date and this goes on until you reach se final state that is to accept any token or to do tokenization we need to implement a finite automata so lexical analyser in just some of what a lexical analyser Does It Breaks up the source program into tokens 
+what are tokens tokens could be keyword operator identify anything and how is it done flood know whether the incoming now everything is scanned 
+a character by character se if I have in the program void so it will first can we then over then I then the and then comes up space after it Encounters BOI ID and then it gets to know of space is there it knows ok before space the world was wide and it then checks whether wide can be part of anything any token which is specified in the language yes why I recognise wide is a reserved word or maybe it can be simply called as a Keyword because it has a reserved meaning in a language to avoid is used in the sea so I'll show you an example here if this is the input program given to the lexical analyser I have written a small C program with print the numbers from 1 to 10 and you give it to the lexical analyser and just want to see what will be the output of it so the output would be every single token is identified and now something has to be done with these tokens will see what has to be done so that the spot the video for a moment and try to count how many tokens will be there and what these tokens will be so wide is one main is one opening (closing) {in account; all 
+these are different tokens less than equal to 10 is a a separate token; 
+is a separate tokens of all these tokens would be identified this is the work of a lexical analyser using all these tokens it stores this in a symbol table what does in the symbol table would contain wheels talk about a few entries related on will discuss the symbol table in detail so what it does it create a tuple entry of the typetoken type and attribute Kari so if we consider a statement se in account is equal to one and then there is a seneca taking the first world for the token here is in token type so what type of token is in it it is basically a reserved word for a ki world now what will the symbol table entry be the symbol table entries token type fat open type here is keyword and the attribute value the actual value of this token which is in next word is account so what is count count is not a reserved word it is not an operator not a constant it is basically some variable which the programmer might have created this account is nothing but a variable should be referred to the variable as an identifier what will be the symbol table entry it would be identified have used a small form of identified as ID generally will be using 
+ID to denote the identifier and now hear the symbol table entry was in this ain't is already defined but we haven't define count it right so count would be basically a variable which is allotted some place so this will be the second entry here the attribute value would be the pointer to 
+that memory location this is a memory location where we have the account back probably continue with this video as the second part in the next lecture
+
+
+
+
+ You can give choice for Summarizer :
+0. Both Part by and whole Summary
+ 1. Part Summary only
+2. Whole Summary only
+
+
+
+
+
+______ Enter choice for summary : 0
+
+
+
+______ Summary using NLP ______
+
+
+  
+
+
+
+
+
+______ Summary using T5 Model ______
+
+
+ lecture on phases of compiler the objective of the letter is to inter inter. a re-write : the ets: ii - il sa: an inter-inter inter..
+
+
+
+
+
+_____ The Blue score is 0
+
+
+==========  Final = T5 + NLP  ==========
+
+
+============================================================================================
+
+
+______ Final Summary using Bleu Score ______
+
+
+ lecture on phases of compiler the objective of the letter is to inter inter. a re-write : the ets: ii - il sa: an inter-inter inter.. 
+
+
+
+
+
+Summary for Phases-trans1.txt
+
+
+
+
+
+______ Summary using NLP ______
+
+
+
+
+
+
+
+
+______ Summary using T5 Model ______ 
+
+
+ compilation and then we try to relate them to language constructs you might have already studied in theory of computation. this brief overview of this summary of a compiled list of the languages you may already have studied for the compiler compiler. if you want to use this compilation, we will look at the examples below.
+
+
+
+
+
+_____ The Blue score is 0
+
+
+==========  Final = T5 + NLP  ==========
+
+
+============================================================================================
+
+
+______ Final Summary using Bleu Score ______
+
+
+ compilation and then we try to relate them to language constructs you might have already studied in theory of computation. this brief overview of this summary of a compiled list of the languages you may already have studied for the compiler compiler. if you want to use this compilation, we will look at the examples below.
+
+
+
+
+
+Summary for Phases-trans2.txt
+
+
+
+
+
+______ Summary using NLP ______
+
+
+  
+
+
+
+
+
+______ Summary using T5 Model ______
+
+
+ compiler was already discussed in the previous lecture in this lecture will go through each of the phases in compiler and try to explore its details details. compiler will be discussed by compiler in a lecture on compiler's compiler. compiled compiler has already been discussed. it will look through every phase of compiler, if compiler is not able to 
+rewrite it. the compiler - compiler had already mentioned in an earlier lecture.
+
+
+
+
+
+_____ The Blue score is 0
+
+
+==========  Final = T5 + NLP  ==========
+
+
+============================================================================================
+
+
+______ Final Summary using Bleu Score ______
+
+
+ compiler was already discussed in the previous lecture in this lecture will go through each of the phases in compiler and try to explore its details details. compiler will be discussed by compiler in a lecture on compiler's compiler. compiled compiler has already been discussed. it will look through every phase of compiler, if compiler is not able to 
+rewrite it. the compiler - compiler had already mentioned in an earlier lecture.
+
+
+
+
+
+Summary for Phases-trans3.txt
+
+
+
+
+
+______ Summary using NLP ______
+
+
+  so lexical analysis is the first page of compilation process and this lexical analyser is sometimes also called as Kana now why scanner because this is the only face with gets to interact with the source program should be source program here is nothing but our high level language program se for example if there is a c compiler then the source program would be a high level language program which is written in C language and as well as it get it gets into the compiler it first goes to the lexical analyser also called as camp 
+with scans the input from the C program for hence it is also called as I can see why it is called as a lexical analyser so it is the interface of the compiler to the outside world this is the only phase which receives the input from the C program to get the source program which is safe for example in C or any high level language the lexical analyser stars is to give a stream of tokens Nabi tokens are basically representation of logically cohesive sequence of characters to be sequence of tokens are also referred to as Lexi hence the name of the save is lexical analysis the water tokenso whenever you try to learn a new language were taught what are the keywords in this language for tour operators you 
+can use what all are the rules to generate the name for a identify identify everything but a variable or a variable name with you give symbols various symbols which are allowed 
+and there could be some constant numbers in the program there could be some strings se printer statements have string inside have some text inside "that is referred to as strings so what does a lexical analyser do it scans the input source program identify the valid words from the language what could be there is valid words this can be any one of these which are listed it also removes the extra white spaces while writing the program is then you might give some extra blank spaces you also provide certain comments so all these 
+things are not meaningful to the program
+
+
+Token indices sequence length is longer than the specified maximum sequence length for this model (791 > 512). Running this sequence through the model will result in indexing errors
+
+
+
+______ Summary using T5 Model ______
+
+
+ lexical analysis is the first page of the compilation process. the source program is a high level language program which is written in C language and as well as it gets it into the compiler it is also called as camp with scans the input from the C program for this is not the only phase which receives input to the c program to get the sources program that is safe for example in the language's'
+
+
+
+
+
+_____ The Blue score is 5.882492291217442e-232
+
+
+==========  Final = T5 + NLP  ==========
+
+
+============================================================================================
+
+
+______ Final Summary using Bleu Score ______
+
+
+ lexical analysis is the first page of the compilation process. the source program is a high level language program which is written in C language and as well as it gets it into the compiler it is also called as camp with scans the input from the C program for this is not the only phase which receives input to the c program to get the sources program that is safe for example in the language's' so lexical analysis is the first page of compilation process and this lexical analyser is sometimes also called as Kana now why scanner because this is the only face with gets to interact with the source program should be source program here is nothing but our high level language program se for example if there is a c compiler then the source program would be a high level language program which is written in C language and as well as it get it gets into the compiler it first goes to 
+the lexical analyser also called as camp with scans the input from the C program for hence it is also called as I can see why it is called as a lexical analyser so it is the interface of the compiler to the outside world this is the only phase which receives the input from the C program to get the source program which is safe for example in C or any high level language the lexical analyser stars is to give a stream of tokens Nabi tokens are basically representation of logically cohesive sequence of characters to be sequence of tokens are also referred to as Lexi hence the name of the save is lexical analysis the water tokenso whenever you try to learn a new language were taught what are the keywords in this language for tour operators you can use what all are the rules to generate the name for a identify identify everything but a variable or a variable name with you give symbols various symbols which are allowed and there could be some constant numbers in the program there could be some strings se printer statements have string inside have some text inside "that is referred to as strings so what does a lexical analyser do it scans the input source program identify the valid words from the language what could be there is valid words this can be any one of these which are listed it also removes the extra white spaces while writing the program is then you might give some extra blank spaces you also provide certain comments so all these things are not meaningful to the program
+
+
+
+
+
+Summary for Phases-trans4.txt
+
+
+
+
+
+______ Summary using NLP ______
+
+
+  
+
+
+
+
+
+______ Summary using T5 Model ______
+
+
+ if this is the input program given to the lexical analyser I have written a small C program with print the numbers from 1 to 10. the output would be every single token is identified and now something has to be done with these tokens will see what is going on in the spot the video for the moment and try to count the token number 'in account'
+
+
+
+
+
+_____ The Blue score is 0
+
+
+==========  Final = T5 + NLP  ==========
+
+
+============================================================================================
+
+
+______ Final Summary using Bleu Score ______
+
+
+ if this is the input program given to the lexical analyser I have written a small C program with print the numbers from 1 to 10. the output would be every single token is identified and now something has to be done with these tokens will see what is going on in the spot the video for the moment and try to count the token number 'in account'
+
+
+
+
+
+Summary for Phases-trans5.txt
+
+
+
+
+
+______ Summary using NLP ______
+
+
+ and then there is a seneca taking the first world for the token here is in token type so what type of token is in it it is basically a reserved word for a ki world now what will the symbol table entry be the symbol table entries token type fat open type here is keyword and the attribute value the actual value of this token which is in next word is account
+
+
+
+
+
+______ Summary using T5 Model ______
+
+
+ what does in the symbol table would contain wheels talk about a few entries related on will discuss the symbols table in detail. what it does it create an tuple entry of the typetoken type and attribute Kari so if we consider an account se in account is equal to one and then there is the seneca taking the first world for the token here is in token type so what type of token is inside it is keyword and the attribute value the actual
+
+
+
+
+
+_____ The Blue score is 7.411994825316195e-232
+
+
+==========  Final = T5 + NLP  ==========
+
+
+============================================================================================
+
+
+______ Final Summary using Bleu Score ______
+
+
+ what does in the symbol table would contain wheels talk about a few entries related on will discuss the symbols table in detail. what it does it create an tuple entry of the typetoken type and attribute Kari so if we consider an account se in account is equal to one and then there is the seneca taking the first world for the token here is in token type so what type of token is inside it is keyword and the attribute value the actualand then there is a seneca taking the first world for the token here is in token type so what type of token is in it it is basically a reserved word for a ki world now what will the symbol table entry be the symbol table entries token type fat open type here is keyword and the attribute value the actual value of this token which is in next word is account
+
+
+
+
+
+Summary for Phases-trans6.txt
+
+
+
+
+
+______ Summary using NLP ______
+
+
+  lecture on phases of compiler the objective of the letter is to inter compilation and then we try to relate them to language construct the language constructs you might have already studied in theory of computation so this brief overview of compiler was already discussed in the previous lecture in this lecture will go through each of the phases in compiler and try to explore its details so lexical analysis is the first page of compilation process and this lexical analyser is sometimes also called as Kana now why scanner because this is the only face with gets to interact with the source program should be source program here is nothing but our high level language program se for example if there is 
+a c compiler then the source program would be a high level language program which is written in C language and as well as it get it gets into the compiler it first goes to the lexical analyser also called as camp with scans the input from the C program for hence it is also called as I can see why it is called as a lexical analyser so it is the interface of the compiler to the outside world this is the only phase which receives the input from the C program to get the source program which is safe for example in C or any high level language the lexical analyser stars is to give a stream of tokens Nabi tokens are basically representation of logically cohesive sequence of characters to be sequence of tokens are also referred to as Lexi hence the name of the save is lexical analysis the water tokenso I'll show you an example here if this is the input program given to the lexical analyser I have written a small C program with print the numbers from 1 to 10 and you give it to the lexical analyser and just want to see what will be the output of it so the 
+output would be every single token is identified and now something has to be done with these tokens will see what has to be done so that the spot the video for a moment and try 
+to count how many tokens will be there and what these tokens will be so wide is one main is one opening (closing) {in account; all these are different tokens less than equal to 
+10 is a a separate token; is a separate tokens of all these tokens would be identified this is the work of a lexical analyser using all these tokens it stores this in a symbol table what does in the symbol table would contain wheels talk about a few entries related on will discuss the symbol table in detail so what it does it create a tuple entry of the typetoken type and attribute Kariso whenever you try to learn a new language were taught what are the keywords in this language for tour operators you can use what all are the rules to generate the name for a identify identify everything but a variable or a variable name with you give symbols various symbols which are allowed and there could be some 
+constant numbers in the program there could be some strings se printer statements have string inside have some text inside "that is referred to as strings so what does a lexical analyser do it scans the input source program identify the valid words from the language what could be there is valid words this can be any one of these which are listed it also removes the extra white spaces while writing the program is then you might give some extra blank spaces you also provide certain comments so all these things are not meaningful to the programand then if you get some input se you go and proceed to some others date and this goes on until you reach se final state that is to accept any token or to do tokenization we need to implement a finite automata so lexical analyser in just some of what a lexical analyser Does It Breaks up the source program into tokens what are tokens tokens could be keyword operator identify anything and how is it done flood know whether the incoming now everything is scanned a character by character se if I have in the program void so it will first can we then over then
+
+
+Token indices sequence length is longer than the specified maximum sequence length for this model (1361 > 512). Running this sequence through the model will result in indexing errors
+
+
+
+______ Summary using T5 Model ______ 
+
+
+ lexical analysis is the first page of compilation process. this brief overview of compiler will go through each of the phases in compiler so we try to relate them to language constructs you might have already studied in theory of computation. the next lecture will be on the topic of how to use a finite automata to measure the number of tokens to be scanned in the language.
+
+
+
+
+
+_____ The Blue score is 7.752195769596219e-156
+
+
+==========  Final = T5 + NLP  ==========
+
+
+============================================================================================
+
+
+______ Final Summary using Bleu Score ______
+
+
+ lexical analysis is the first page of compilation process. this brief overview of compiler will go through each of the phases in compiler so we try to relate them to language constructs you might have already studied in theory of computation. the next lecture will be on the topic of how to use a finite automata to measure the number of tokens to be scanned in the language. lecture on phases of compiler the objective of the letter is to inter compilation and then we try to relate them to language construct the language constructs you might have already studied in theory of computation so this brief overview of compiler was already discussed in the previous lecture in this lecture will go through each of the phases in compiler and try to explore its details so lexical analysis is the first page of compilation process and this lexical analyser is sometimes also called as Kana now why scanner because this is the only face with gets to interact with the source program should be source program here is nothing but our high level language program se for example if there is a c compiler then the source program would be a high level language program which is written in C language and as well as it get it gets into the compiler it first goes to the lexical analyser also called as camp with scans the input from the C program for hence it is also called as I can see why it is called as a lexical analyser 
+so it is the interface of the compiler to the outside world this is the only phase which receives the input from the C program to get the source program which is safe for example in C or any high level language the lexical analyser stars is to give a stream of tokens Nabi tokens are basically representation of logically cohesive sequence of characters 
+to be sequence of tokens are also referred to as Lexi hence the name of the save is lexical analysis the water tokenso I'll show you an example here if this is the input program given to the lexical analyser I have written a small C program with print the numbers from 1 to 10 and you give it to the lexical analyser and just want to see what will be the output of it so the output would be every single token is identified and now something has to be done with these tokens will see what has to be done so that the spot the video 
+for a moment and try to count how many tokens will be there and what these tokens will be so wide is one main is one opening (closing) {in account; all these are different tokens less than equal to 10 is a a separate token; is a separate tokens of all these tokens would be identified this is the work of a lexical analyser using all these tokens it stores this in a symbol table what does in the symbol table would contain wheels talk about a few entries related on will discuss the symbol table in detail so what it does it create a tuple entry of the typetoken type and attribute Kariso whenever you try to learn a new language were taught what are the keywords in this language for tour operators you can use what all are the rules to generate the name for a identify identify everything but a variable or a variable name with you give symbols various symbols which are allowed and there could be some constant numbers in the program there could be some strings se printer statements have string inside have some text inside "that is referred to as strings so what does a lexical analyser do it scans the input source program identify the valid words from the language what could be there is valid words this can be any one of these which are listed it also removes the extra white spaces while writing the program is then you might give some extra blank spaces you also provide certain comments so all these things are not meaningful to the programand then if you get some input se you go and proceed to some others date and this goes on until you reach se final state that is to accept any token or to do tokenization we need to implement a finite automata so lexical analyser in just some of what a lexical analyser Does It Breaks up the source program into tokens what are tokens tokens could be keyword operator identify anything and how is it done flood know whether the incoming now everything is scanned a character by character se if 
+I have in the program void so it will first can we then over then
+
+
+
+
+
+Summary for Phases-trans6.txt
+
+
+
+C:\Projects\KeyFrames and Summarization\Final Version>
+
+
+
+
+
+

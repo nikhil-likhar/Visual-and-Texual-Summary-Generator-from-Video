@@ -1,0 +1,1 @@
+road map is a plan of action that shows how production evolved over time. the project will complete in springs that means there will be the release of teachers at the end of each cycle and unlike the traditional Waterfall model the development cycle will not be small.

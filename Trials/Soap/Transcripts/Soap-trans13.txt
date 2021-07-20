@@ -1,0 +1,1 @@
+ nothing but a simple object access protocol and as the name suggest it is nothing but a protocol you can work on almost any internet protocol when you're working with soap you can use the http you can use FTP you can use MTU for example so you can say that soap works on variety of products

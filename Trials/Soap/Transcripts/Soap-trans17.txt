@@ -1,0 +1,1 @@
+ you get a response which is nothing but again now and XML file with the details of the model that you requested so when you are sending this request you are including this information of the model and what you want to do with it in your soap envelope to this is how you are typical soap request will work now let us now understand how

@@ -1,0 +1,1 @@
+ that typical soap envelope will have some header it will also have some body with the wsdl file which is nothing but a web service definition language so to understand how soapworks you can
